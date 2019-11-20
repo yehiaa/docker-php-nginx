@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.8
 LABEL Maintainer="Tim de Pater <code@trafex.nl>" \
       Description="Lightweight container with Nginx 1.16 & PHP-FPM 7.3 based on Alpine Linux."
 
